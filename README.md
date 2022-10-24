@@ -26,7 +26,7 @@
 <img align="right" width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6644C9&width=435&lines=Efficient+Full+Stack+Web+Developer;2%2B+years+of+hands-on+experience;Perfectly+customer+oriented+guy" />
 &nbsp;&nbsp;- 🏦 I've been a programmer for 2 years, currently specializing in the Web. I've a real passion for learning new skills. Recently, I've been very interested in the blockchain. I perfect my knowledge with the Solidity language !
      
-- 💻 I use daily **.html**, **.css**, **.js**, **.ts**, **.sql**, **.php**, **.sol**.
+- 💻 I daily use **.html**, **.css**, **.js**, **.ts**, **.sql**, **.php**, **.sol**.
 - 🚀 I am currently looking for blockchain training to improve my skills.
 - 📚 I would be happy to help anyone who is struggling to learn code. Contact me !
 - 👯 I’m looking to collaborate on web3 / Dapp products.
