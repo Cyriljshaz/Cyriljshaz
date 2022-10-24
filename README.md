@@ -27,7 +27,7 @@
 &nbsp;&nbsp;- 🏦 I've been a programmer for 2 years, currently specializing in the Web. I've a real passion for learning new skills. Recently, I've been very interested in the blockchain. I perfect my knowledge with the Solidity language !
      
 - 💻 I daily use **.html**, **.css**, **.js**, **.ts**, **.sql**, **.php**, **.sol**.
-- 🚀 I am currently looking for blockchain training to improve my skills.
+- 🚀 Currently, I'm looking for blockchain training to improve my skills.
 - 📚 I would be happy to help anyone who is struggling to learn code. Contact me !
 - 👯 I’m looking to collaborate on web3 / Dapp products.
 - 💬 Ask me anything.
