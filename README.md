@@ -23,7 +23,7 @@
 
 <p>
   <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E1842&width=435&lines=Efficient+and+Reliable+Full+Stack+Web+Developer;2%2B+years+of+hands-on+experience;Perfectly+customer+oriented+guy)](https://git.io/typing-svg" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E1842&width=435&lines=Efficient+and+Reliable+Full+Stack+Web+Developer;2%2B+years+of+hands-on+experience;Perfectly+customer+oriented+guy" />
 &nbsp;&nbsp;- 🏦 I've been a programmer for 2 years, currently specializing in the Web. I've a real passion for learning new skills. Recently, I've been very interested in the blockchain. I perfect my knowledge with the Solidity language !
      
 - 💻 I use daily **.html**, **.css**, **.js**, **.ts**, **.sql**, **.php**, **.sol**.
