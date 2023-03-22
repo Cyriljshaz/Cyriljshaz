@@ -2,8 +2,8 @@
 ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://github.com/sponsors/cyriljshaz">
-    <img src="https://img.shields.io/badge/sponsor me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/cj6/">
+    <img src="https://img.shields.io/badge/follow me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/Cyriljshaz">
     <img src="https://img.shields.io/badge/follow me-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
