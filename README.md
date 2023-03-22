@@ -14,7 +14,7 @@
     <a href="https://discordapp.com/users/CyrilJ#4990">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="buymeacoffee.com/cyriljtechno">
+  <a href="https://buymeacoffee.com/cyriljtechno">
     <img src="https://img.shields.io/badge/sponsor me-%230077B5.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/sponsors/cyriljshaz">
