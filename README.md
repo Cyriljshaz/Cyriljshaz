@@ -2,11 +2,8 @@
 ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://twitter.com/Vrugz6">
+  <a href="https://twitter.com/Cyriljshaz">
     <img src="https://img.shields.io/badge/follow me-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/cjshaz6">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:cyril.julien6pro@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
